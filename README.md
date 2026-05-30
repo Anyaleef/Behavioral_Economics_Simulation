@@ -92,3 +92,12 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+Run the simulation:
+```bash
+python main.py
+```
+Run the visual analysis:
+```bash
+python VisualAnalysis.py
+```
