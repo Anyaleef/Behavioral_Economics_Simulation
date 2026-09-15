@@ -1,6 +1,7 @@
 # Behavioral Economics: Cable Car Simulation ![Status](https://img.shields.io/badge/status-complete-yellow) ![University Assignment](https://img.shields.io/badge/type-university%20assignment-purple)
 
 This assignment was completed for the course **Behavioral Economics: Learning and Organizations**.
+
 The project compares decision-making models in a repeated choice environment. The simulated setting is a cable car system where an agent repeatedly chooses between a safe option and a risky option.
 
 ## Project Idea
