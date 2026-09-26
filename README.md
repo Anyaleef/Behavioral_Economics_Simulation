@@ -1,4 +1,6 @@
-# Behavioral Economics: Cable Car Simulation ![Status](https://img.shields.io/badge/status-complete-yellow) ![University Assignment](https://img.shields.io/badge/type-university%20assignment-purple)
+# Behavioral Economics: Cable Car Simulation
+
+![Status](https://img.shields.io/badge/status-complete-yellow) ![University Assignment](https://img.shields.io/badge/type-university%20assignment-purple)
 
 This assignment was completed for the course **Behavioral Economics: Learning and Organizations**.
 
